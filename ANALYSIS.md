@@ -20,7 +20,7 @@ python3 tools/run.py --check
 
 All 44 public tests passed.
 
-Git commit: [insert the final commit hash after committing all submission files]
+Git commit: cc6abdee829847d703393e3c7f8b507703e5ba06
 
 ## Algorithm explanations
 
